@@ -1,0 +1,33 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.w3-bar,
+h1,
+button {
+  font-family: "Poppins", sans-serif;
+}
+
+.primarybutton {
+  background-color: #212121;
+  color: #d4ca50;
+}
+
+.fa-anchor,
+.fa-coffee {
+  font-size: 200px;
+}
+
+#navbar {
+  background-color: #212121;
+  color: #d4ca50;
+}
+
+#header {
+  padding: 128px 16px;
+  background-color: #d4ca50;
+  color: #212121;
+}
